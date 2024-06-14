@@ -3,7 +3,7 @@
 `DigitalClown`
 
 I'm a Computer engineering student that belives in the power of tecnology to do funny stuff. 
-Most of my code projects are built from scratch, aiming to understand the process that envolve creating solutions regarding the digital world and its' applications in real life scenarios. You can check some of my work process in my [YouTube channel](https://www.youtube.com/channel/UC4sthethZCIF5e2NfakU1TQ)
+Most of my code projects are built from scratch, aiming to understand the process that envolve creating solutions regarding the digital world and its' applications in real life scenarios. You can check some of my work process in my [YouTube channel](https://www.youtube.com/channel/UC4sthethZCIF5e2NfakU1TQ).
 
 ---
 ### 🛠️ The real stuff
