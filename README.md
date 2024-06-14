@@ -38,7 +38,9 @@ Most of my code projects are built from scratch, aiming to understand the proces
   - High school: Colégio de Aplicação Macaé-RJ ✅
   - Degree: Computer engeneering [Studying]
 
-#
+---
 
 ### 📊 Stats
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nauzoo&show_icons=true&theme=gruvbox)
+</p>
