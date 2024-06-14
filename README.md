@@ -42,5 +42,5 @@ Most of my code projects are built from scratch, aiming to understand the proces
 ---
 
 ### 📊 Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nauzoo&show_icons=true&theme=gruvbox)<br />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nauzoo&show_icons=true&theme=tokyonight)
 
