@@ -43,5 +43,5 @@ Most of my code projects are built from scratch, aiming to understand the proces
 
 ### 📊 Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nauzoo&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauzoo&exclude_repo=Minimalistic-Arch-setup&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nauzoo&exclude_repo=Minimalistic-Arch-setup,Codistopia-Monitoria&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
