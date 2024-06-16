@@ -45,4 +45,5 @@ Most of my code projects are built from scratch, aiming to understand the proces
 <div>
   <img alt="my stats" aling="top-left" width=47% src="https://github-readme-stats.vercel.app/api?username=Nauzoo&show_icons=true&theme=tokyonight"/>
   <img alt="my langs" aling="top-left" width=36% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nauzoo&exclude_repo=Minimalistic-Arch-setup,Codistopia-Monitoria&layout=compact&theme=tokyonight"/>
+  <img alt="dancingPenguin" aling="top-left" width=16% src="https://media.tenor.com/0hEQxK9tC7UAAAAi/club-penguin-dance.gif">
 </div>
